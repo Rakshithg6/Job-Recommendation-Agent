@@ -14,6 +14,7 @@
 ## Project Structure
 ```plaintext
 📂 JobSync-AI/
+│── 📜 .env                # Load API keys
 │── 📜 fastapi_server.py   # FastAPI backend to handle job queries
 │── 📜 streamlit_app.py    # Streamlit frontend for user interaction
 │── 📜 README.md           # Project documentation
